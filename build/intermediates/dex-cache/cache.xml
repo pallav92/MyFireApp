@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-database/0.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ebf985be182798e6322fee8fe437b14ee6bb8609">
+        <dex dex="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/pre-dexed/debug/com.firebaseui-firebase-ui-database-0.6.0_440bff77cf2030b158e6c0d9b372e70ff15ef380.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.6.1_16115299170395884109077e3b9adc0fd38fc776.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ef21408e3142ffbfbd4a7ec1762c3325c6c386c">
+        <dex dex="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-9.6.0_6f18260c2cbb78a33d807ed37547a398688127d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_a4bbf4b1eb6ff2500d5f7e6ca3f4d38cb80ee7b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5243af50631020511cf2403789678149b1a319e6">
+        <dex dex="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-9.6.0_77f024e0d70b7d7f44c9a68b94899a48e7b07fad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/pre-dexed/debug/glide-3.7.0_f1befa257ca24f7e2cb09964ce641ca8ff580699.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_ea55c1259bb5168790a312e16dc496d4d1100ba7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_5d368d04e763222912b5d5704ef8fee18520ef5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7a343e17f154f513a09c12946fae0f172be079ec">
+        <dex dex="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.6.0_cd010a5472b23b47a51097d134844fbd22dfb86e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.6.1_d957f732e4f06cd6b7578af04e35cf9eadb25ebf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_e78fe7bffda9b5a8d7b93fd970c8f32d106cce24.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5e651c1430cc9b8a3b3b5a9d92bb173214dfdf42">
+        <dex dex="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-9.6.0_032dee0aa3acbbc7dabe4200ae14d98501f3865d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_c4ce22c74354fab267228a5263c9eaa95e0e6e43.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7a343e17f154f513a09c12946fae0f172be079ec">
+        <dex dex="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.6.0_037aeda356325a5cd545b910740c3f41a7868dc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_94a329b735686694cd33134369a92a6bcaaad194.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_a3d31158000787c7cd75de20484513e3af642113.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5e651c1430cc9b8a3b3b5a9d92bb173214dfdf42">
+        <dex dex="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-9.6.0_1989d7fba0b2e68f1cd1f470e15a68b953a3bfde.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="93a0248fe0524b4fa2d16f5f7c3cff8452796454">
+        <dex dex="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.6.0_56d6cfb2b6aec4e5382dee2c566f48c3eaf99df3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.6.1_125f8ae9ddbad1f51c99debaf6d7b3a2a58a51ee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.14.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="42a3ae86dd3ae2876d3e95c2e6e104ae57a50a65">
+        <dex dex="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.14.1_37d9a2fa70e5e6e04dd5cbf36921e8cd558bcdbf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_abe6a0a673addf216721f93174fae6a9385541af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5243af50631020511cf2403789678149b1a319e6">
+        <dex dex="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-9.6.0_9619c81efce577024ad8771d1b3bed78b8e034e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_1dfc55c7727813b5b739dc1473b01f990e76a816.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui/0.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="16226703bab55ec42457666213cd3503799d36a8">
+        <dex dex="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/pre-dexed/debug/com.firebaseui-firebase-ui-0.6.0_ef0f66bb2e97648a1eba74fc01d8caec46c74dd8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_56395f85e9900411242788e3f7646334390644c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/exploded-aar/com.android.support/customtabs/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/pre-dexed/debug/com.android.support-customtabs-23.4.0_deb177e909a4d53c1a2e079d24e36f26af50dbd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_09585c21e03e79b5ebe140c5607092fe05888a1a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ef21408e3142ffbfbd4a7ec1762c3325c6c386c">
+        <dex dex="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-9.6.0_a39c0a6060555618d08d9a2a7bfcdbeb7867f069.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f861fce2e9fa167e7fe8d8558cf2cbb910b9fb34">
+        <dex dex="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-module-9.6.0_b72422d6841f2b5f2a95097e349b4b395dc1e762.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1f4bb2577a30d0b3268fed038ed59230709ad593">
+        <dex dex="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-9.6.0_8c7f62aa16c3ca3ac823d6dbd1cbe592bf10f281.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.6.1_08b5c30217e9696597b9036f16b8d4094a19169f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_b62f6d6fe414adf6632b57457b0e4d35c2c08c14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="4a36600281a648769411ef642c331851732bf29e">
+        <dex dex="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.6.1_b088112529f12b2dd5e652c233e9213cd87bd39e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="db0a4170961a16af6d7a5222bf90a5876eea4227">
+        <dex dex="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-9.6.0_7cb1e983963fd2c43a379b36ae34909c45c0fb1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_ff6f7e30b0fb6c07cdf97aca4c0883c5d786267e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1e14ebe1cda8491f152083e752ca5bf73cd37bff">
+        <dex dex="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.6.1_735f5870d7d732ece57be0820c8ce304acf9be50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="580fa73d5bf63ffd04b9d66d0e75a2ed21842702">
+        <dex dex="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-9.6.0_f7ddab75889268faef36b481005785e1fd7eba47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_1aead5c445fb99e771e3fba0d5de94e94d387fc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_1f1eb05e35a824e42f2e20e4dbab3f2a08adcae0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.6.1_236195f039d2ecc31de1f627157a8635dce753fe.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui/0.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="16226703bab55ec42457666213cd3503799d36a8">
+        <dex dex="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/pre-dexed/debug/com.firebaseui-firebase-ui-0.6.0_98c75842fceba5e1286fe5fbec08c742707b506d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="a1c351dc10b92d638da57f3a6513f87cfbdc9f83">
+        <dex dex="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.6.1_6e3cb3f487e33bc3f078e67caab8bfa3730aa7e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_4888e9ac2cff8d19ab9d452209e4c93f0501bced.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="de2c50f4a24277d22d675d598640da6d4622b14d">
+        <dex dex="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-9.6.0_d1214cac038d1e4a1a0482079de7c3d813511eef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/exploded-aar/com.android.support/customtabs/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="2d1eaa9e0b98f8fc4c2b989d9b30d4f1480648ac">
+        <dex dex="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/pre-dexed/debug/com.android.support-customtabs-23.4.0_8e3832136dbe69ec2c5806de34dc28c96c4d941b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="93a0248fe0524b4fa2d16f5f7c3cff8452796454">
+        <dex dex="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.6.0_2746ebf15cfbc7aeae4f5f6a49ec3d13cadee79f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_313f71a937be946a2e7dfe8e377302855ad8c3bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_9240a7810eafbf11f93ec86d2b4ab495519a03be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_3dc2423a7e59a6e5be9cbc07b79fdec0f0c73ac7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_1de6c383424f9e4ae0d3c3a07bf732d239df98b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.4.0_2c9dc67036bdd88b0109af1723e8d30afc3d2c25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_0207cce01f4829015c20ad56387979fdc7252ee9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-storage/0.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3c433e48557e476290f45fb6cb568d1a103c9978">
+        <dex dex="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/pre-dexed/debug/com.firebaseui-firebase-ui-storage-0.6.0_3db61d73d0bd59a7550efc19491be0c1de77ec40.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_a1901156df76917cb082db4806248be10c0d689e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_87ecd64a9806e9a5c00d07d76c6d981866f540f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="580fa73d5bf63ffd04b9d66d0e75a2ed21842702">
+        <dex dex="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-9.6.0_2583cb70ec65700242ff6fe74cce9714a14558dc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-auth/0.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8ac09931704b91e7b4d281f5e34b3b006b628c22">
+        <dex dex="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/pre-dexed/debug/com.firebaseui-firebase-ui-auth-0.6.0_7df26181969e5017e927a437399fb80d03d35949.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.14.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="42a3ae86dd3ae2876d3e95c2e6e104ae57a50a65">
+        <dex dex="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.14.1_f003d59b9e743f5e80b036a740399124f1408054.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_d4e94e2bd4b5ac937d841bd1bd50cb0b760a266b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/exploded-aar/com.android.support/palette-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="51518e8e8f97c314a243d9def0ded91d385b6a1e">
+        <dex dex="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-23.4.0_7ac8ac1a78543ea0ffd6c09e52857235667a54e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_860aefdd05a3ca1030d264b098e6c5c8525ed6b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="f861fce2e9fa167e7fe8d8558cf2cbb910b9fb34">
+        <dex dex="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-module-9.6.0_9a975b45c7748ec732657a99302a7cf67b3e470f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_727bd87d43adc53511e82532b19b2f1ac49b15f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1f4bb2577a30d0b3268fed038ed59230709ad593">
+        <dex dex="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-9.6.0_81805b7affbf103f4ad245255a4cd355c2f0b153.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_0993ce82419d5ff4e7ba1f03b55cb614b8192706.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_489f6a982f28c258de539be1af5ec298d558ea65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_e5ab7314cbadd5bde04587486e7c3e79e1fc8cc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_c9c3ed2d76a5215e91a17261d035fc4bbede55a6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-storage/0.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="3c433e48557e476290f45fb6cb568d1a103c9978">
+        <dex dex="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/pre-dexed/debug/com.firebaseui-firebase-ui-storage-0.6.0_925eb1c538ebbe881180b34cb71f798622f9256c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="db0a4170961a16af6d7a5222bf90a5876eea4227">
+        <dex dex="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-9.6.0_2d61f5bd6b30f9253960854138fc9dae84cc9779.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.6.1_795d0f79cd46fafffe2be263472bf6ab1ec5ed0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="1ef72e72bc0d05602c366582afa9439f58bb31d6">
+        <dex dex="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.6.1_f15874ea79fb16d2753a50eb2e5f4a0a3f0e0c1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/exploded-aar/com.android.support/palette-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="51518e8e8f97c314a243d9def0ded91d385b6a1e">
+        <dex dex="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/pre-dexed/debug/com.android.support-palette-v7-23.4.0_9f7e4704a97ef96036a14059b238bb619c190911.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_f6572319a965a9c641f92277ee600bfc142ae7f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_9a9027dd682a905a878bf10a7630a2e1e2ccf63a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-auth/0.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8ac09931704b91e7b4d281f5e34b3b006b628c22">
+        <dex dex="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/pre-dexed/debug/com.firebaseui-firebase-ui-auth-0.6.0_cee069e7fea2573bbff901f99c75022b94555608.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="eccaaa9ffa6bb4bfbd2e870f01aaf69655d353be">
+        <dex dex="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.6.1_ba50bb302a5de06098affe8c1eb638cf5cb75791.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_d7d2284197cb23c0900d32c92a0c7c28e2680b49.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.6.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0efd1b44f47c134fb245914a1d54a55adbfc2f8d">
+        <dex dex="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.6.1_8153035bbaaae38f087f9441d3782db6efe5edd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/pre-dexed/debug/com.android.support-design-24.2.1_24c02b637403273824135d14ef1808090419ad3e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/exploded-aar/com.firebaseui/firebase-ui-database/0.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="ebf985be182798e6322fee8fe437b14ee6bb8609">
+        <dex dex="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/pre-dexed/debug/com.firebaseui-firebase-ui-database-0.6.0_712a4110980120093c67f1a450de93b79a3c091b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_48dc1081270b5d230d7a216ab3ab292dbfbcb832.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="/home/pallav/AndroidStudioProjects/MyFireApp/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-23.4.0_d8569ac4301f183e9bed089b214e6166759f333f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.6.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.3"
+        sha1="de2c50f4a24277d22d675d598640da6d4622b14d">
+        <dex dex="/home/pallav/MPAndroidChart/Myfire/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-9.6.0_4f61720ce740ee009a8a768e2aa0e7152d42837a.jar" />
+    </item>
+
+</items>
