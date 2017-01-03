@@ -6,6 +6,7 @@ import android.support.annotation.NonNull;
 import android.support.design.widget.FloatingActionButton;
 import android.support.v7.app.AppCompatActivity;
 import android.text.format.DateFormat;
+import android.view.Gravity;
 import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
@@ -46,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
                     "Welcome " + FirebaseAuth.getInstance()
                             .getCurrentUser()
                             .getDisplayName(),
-                    Toast.LENGTH_LONG)
+                    Toast.LENGTH_SHORT)
                     .show();
 
             // Load chat room contents
@@ -86,9 +87,27 @@ public class MainActivity extends AppCompatActivity {
             @Override
             protected void populateView(View v, ChatMessage model, int position) {
                 // Get references to the views of message.xml
+
                 TextView messageText = (TextView)v.findViewById(R.id.message_text);
                 TextView messageUser = (TextView)v.findViewById(R.id.message_user);
                 TextView messageTime = (TextView)v.findViewById(R.id.message_time);
+
+                if(!FirebaseAuth.getInstance()
+                        .getCurrentUser()
+                        .getDisplayName().equals(model.getMessageUser())){
+                    messageText.setGravity(Gravity.LEFT);
+                    messageUser.setGravity(Gravity.LEFT);
+                    messageTime.setGravity(Gravity.LEFT);
+                   /*
+                    Vibrator vibrator = (Vibrator) getApplicationContext().getSystemService(Context.VIBRATOR_SERVICE);
+                    // Vibrate for 500 milliseconds
+                    vibrator.vibrate(500);*/
+                }
+                else{
+                    messageText.setGravity(Gravity.RIGHT);
+                    messageUser.setGravity(Gravity.RIGHT);
+                    messageTime.setGravity(Gravity.RIGHT);
+                }
 
                 // Set their text
                 messageText.setText(model.getMessageText());
